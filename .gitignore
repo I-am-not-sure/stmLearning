@@ -1,0 +1,29 @@
+# Build directories
+Debug/
+Release/
+build/
+cmake-build-*/
+
+# Generated build files
+*.o
+*.obj
+*.d
+*.elf
+*.map
+*.hex
+*.bin
+*.list
+*.su
+
+# Local caches and settings
+.metadata/
+.cache/
+.vs/
+.claude/
+CMakeUserPresets.json
+compile_commands.json
+mx.scratch
+
+# Operating system files
+Thumbs.db
+.DS_Store
