@@ -27,3 +27,11 @@ mx.scratch
 # Operating system files
 Thumbs.db
 .DS_Store
+# Local tools and private project boundary
+.idea/
+.user/
+firmware/
+**/pid_versionone/
+*.log
+*.tmp
+*.bak
